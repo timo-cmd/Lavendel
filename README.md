@@ -1,2 +1,2 @@
 # Lavendel
-A lightweight > 100kb binary clock✨Built with electron.js
+A lightweight, cute and colorful  binary clock✨Built with electron.js
