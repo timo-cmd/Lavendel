@@ -12,8 +12,8 @@ function createWindow () {
     }
   })
 
-  // and load the index.html of the app.
-  win.loadFile('index.html')
+  // and load the menu of the app.
+  win.loadFile('menu.html')
 }
 
 app.whenReady().then(createWindow)
