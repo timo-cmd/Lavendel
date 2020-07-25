@@ -1,1 +1,10 @@
 
+{
+  "name": "Lavendel",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  }
+}
