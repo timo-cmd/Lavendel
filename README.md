@@ -1,5 +1,7 @@
 # Lavendel
-A lightweight, cute and colorful  binary clock✨Built with electron.
+A lightweight, cute and colorful  binary clock✨Built with 
+
+Works fine with: MacOS, OSX, Linux and Windows10🎓
 
 #### Project content:
 
