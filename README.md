@@ -19,3 +19,9 @@ Lavendel/
 #### Screenshots:
 
 <img src="09461D9A-248B-4954-AF0F-4626BE5D082D.png"></img>
+
+#### Thanks to:
+
+- 🦄 Electron.js 
+
+- 💝 Our contributors
