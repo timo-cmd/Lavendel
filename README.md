@@ -3,7 +3,7 @@
  [![Maintainability](https://api.codeclimate.com/v1/badges/8a4645a372991cdcf735/maintainability)](https://codeclimate.com/github/timo-cmd/Lavendel/maintainability)
 
 
-A lightweight, cute and colorful  binary clock✨Built with 
+A lightweight, cute and colorful  binary clock✨ Learn more on: <a href="https://timo-cmd.github.io/Lavendel/">Lavendel.io</a>
 
 Works fine with: MacOS, OSX, Linux and Windows10🎓
 
