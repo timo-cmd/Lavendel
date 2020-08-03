@@ -1,0 +1,69 @@
+/* 
+*  OMG Source code pro + nord-theme is so *  *  awesome I need to cry now :)
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Source+Code+Pro:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap');
+
+body {
+  background-color: #2E3440;
+}
+
+h1 {
+  text-align: center;
+  font-family: source code pro;
+  font-weight: bold;
+  color: #B48EAD;
+}
+
+p {
+  text-align: center;
+  /* blue: color: #81A1C1;*/
+  color: #E5E9F0;
+  font-weight: bold;
+  font-size: 12;
+  font-family: source code pro;
+}
+
+#link {
+  text-align: center;
+  color: #88C0D0;
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 12;
+  font-family: source code pro;
+}
+
+#versioning:before {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: source code pro;
+  content: "*";
+  color: #b37775;
+}
+#versioning:after {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: source code pro;
+  content: "*";
+  color: #b37775;
+}
+
+#launch {
+  background-color: transparent;
+  border: solid #EBCB8B;
+  border-radius: 5px;
+  height: 50px;
+  width: 150px;
+  color: white;
+  font-weight: none;
+  font-family: source code pro;
+  font-size: 15px;
+  margin: 5px;
+}
+
+a {
+  color: white;
+  font-family: source code pro;
+}
