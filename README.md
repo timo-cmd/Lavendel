@@ -1,5 +1,8 @@
 # Lavendel
 
+ [![Maintainability](https://api.codeclimate.com/v1/badges/8a4645a372991cdcf735/maintainability)](https://codeclimate.com/github/timo-cmd/Lavendel/maintainability)
+
+
 A lightweight, cute and colorful  binary clock✨Built with 
 
 Works fine with: MacOS, OSX, Linux and Windows10🎓
