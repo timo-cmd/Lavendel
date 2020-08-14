@@ -7,6 +7,13 @@ A lightweight, cute and colorful clock✨ Learn more on: <a href="https://timo-c
 
 Works fine with: MacOS, OSX, Linux and Windows10🎓
 
+#### Install:
+
+1. install the newest release
+2. setup installer
+3. Launch app
+4. stay focused
+
 #### Project content:
 
 ```
