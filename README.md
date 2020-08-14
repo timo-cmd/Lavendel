@@ -36,7 +36,6 @@ Lavendel/
 
 - 🦄 Electron.js 
 
-- 💝 Our contributors
 
 
 Lavendel is built by by Timo Sarkar. The project is licensed under the MIT License.
