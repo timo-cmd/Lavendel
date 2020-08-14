@@ -1,7 +1,7 @@
 # Lavendel
 
  [![Maintainability](https://api.codeclimate.com/v1/badges/8a4645a372991cdcf735/maintainability)](https://codeclimate.com/github/timo-cmd/Lavendel/maintainability)
-
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A lightweight, cute and colorful clock✨ 
 
