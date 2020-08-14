@@ -39,4 +39,4 @@ Lavendel/
 - 💝 Our contributors
 
 
-Lavendel is built by by Timo Sarkar and [friends](). The project is licensed under the MIT License.
+Lavendel is built by by Timo Sarkar. The project is licensed under the MIT License.
