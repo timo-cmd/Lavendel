@@ -35,6 +35,8 @@ Lavendel/
 #### Thanks to:
 
 - 🦄 Electron.js 
+- 📦 NPM.js
+
 
 
 
