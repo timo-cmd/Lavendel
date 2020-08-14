@@ -12,7 +12,7 @@ Works fine with: MacOS, OSX, Linux and Windows10🎓
 1. install the newest [release](https://github.com/timo-cmd/Lavendel/releases/tag/v0.1.3)
 2. setup installer
 3. Launch app
-4. stay focused
+4. resume working, start using Lavendel and stay focused
 
 #### Project content:
 
