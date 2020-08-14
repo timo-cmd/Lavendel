@@ -29,7 +29,6 @@ Lavendel/
 
 #### Screenshots:
 
-<img src="09461D9A-248B-4954-AF0F-4626BE5D082D.png" height="500"></img>
 
 <img src="https://github.com/timo-cmd/Lavendel/blob/master/lavendel.png?raw=true" height="500"></img>
 
