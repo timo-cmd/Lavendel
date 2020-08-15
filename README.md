@@ -30,7 +30,7 @@ Lavendel/
 #### Screenshots:🎩
 
 
-<img src="https://github.com/timo-cmd/Lavendel/blob/master/lavendel.png?raw=true" height="500"></img>
+<img src="https://github.com/timo-cmd/Lavendel/blob/master/lavendel.png?raw=true" height="400"></img>
 
 #### Thanks to:
 
